@@ -1,0 +1,6 @@
+beer recipe
+
+Malt
+Water
+Alcohol
+Distall all and can get the malt beer.
